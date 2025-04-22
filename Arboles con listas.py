@@ -1,6 +1,6 @@
 # ===========================================
 # By: Andrea Valentina Delgado Ruiz - Nelson Andres Urrea Calvo
-# Name: Implementación de árboles con listas enlazadas
+# Name: Implementación de Taller 1 - Árboles 
 # ===========================================
 
 #Los nodos se ingresan por teclado
