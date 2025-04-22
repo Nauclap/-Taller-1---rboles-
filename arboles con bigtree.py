@@ -1,3 +1,8 @@
+# ===========================================
+# By: Andrea Valentina Delgado Ruiz - Nelson Andres Urrea Calvo
+# Name: Implementación de árboles con listas enlazadas
+# ===========================================
+
 from bigtree import Node
 from bigtree import preorder_iter
 
