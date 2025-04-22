@@ -1,6 +1,6 @@
 # ===========================================
 # By: Andrea Valentina Delgado Ruiz - Nelson Andres Urrea Calvo
-# Name: Implementación de árboles con Bigtree
+# Name: Implementación de Taller 1 - árboles con Bigtree
 # ===========================================
 
 from bigtree import Node
